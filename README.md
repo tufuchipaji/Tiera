@@ -1,6 +1,7 @@
 # Tiera
 
 一个自己胡思乱想的完全架空的FF14 raid副本......的设计文档 <br>
+自分の奇想天外で考えた架空のFF14レイドコンテンツ......のデザイン案 <br>
 <br>
 
 *** 
@@ -10,9 +11,10 @@
 
 *** 
 - **日本語** <br>
-翻訳中<br>
+ギミックデザインや説明：/JP/1_夢幻楽園ティエラ零式　残夢編4（翻訳中）<br>
 
 *** 
 - **English** <br>
-Translate it into English may be a little hard to me.<br>
+Translate it into English may be a little hard to me but I may try it.<br>
+Don't have expectations for me xd. <br>
 <br>
