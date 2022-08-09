@@ -7,14 +7,14 @@
 *** 
 - **中文** <br>
 机制设计文档：/CN/1_零式梦幻乐园缇亚拉  残梦之章4.xlsx <br>
-有空的话也可以看看  /CN/2_后记.xlsx <br> 
+有空的话也可以看看：/CN/2_后记.xlsx <br> 
 
 *** 
-- **日本語** <br>
-ギミックデザインや説明：/JP/1_夢幻楽園ティエラ零式　残夢編4（翻訳中）<br>
+- **日本語（翻訳中）** <br>
+ギミックデザイン：/JP/1_夢幻楽園ティエラ零式　残夢編4.xlsx <br>
 
 *** 
 - **English** <br>
 Translate it into English may be a little hard to me but I may try it.<br>
-Don't have expectations for me xd. <br>
+Don't have expectations for me XD <br>
 <br>
