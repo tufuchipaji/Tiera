@@ -7,6 +7,7 @@
 *** 
 - **中文** <br>
 机制设计文档：/CN/1_零式梦幻乐园缇亚拉  残梦之章4.xlsx <br>
+文案相关：/CN/文案总文件夹 （由[tufuchipaji](https://github.com/tufuchipaji)友情提供） <br>
 有空的话也可以看看：/CN/2_后记.xlsx <br> 
 
 *** 
