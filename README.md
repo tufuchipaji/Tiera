@@ -6,7 +6,7 @@
 
 *** 
 - **中文** <br>
-  - 机制设计文档：/CN/1_零式梦幻乐园缇亚拉  残梦之章4.xlsx <br>
+  - 机制设计文档：/CN/1b_零式梦幻乐园缇亚拉 残梦之章4 后半.xlsx <br>
   - 有空的话也可以看看：/CN/2_后记.xlsx <br> <br>
   - 文案相关：（provided by [tufuchipaji](https://github.com/tufuchipaji)）
     - /CN/文案总文件夹 <br>
@@ -15,7 +15,7 @@
 
 *** 
 - **日本語（翻訳中）** <br>
-  - ギミックデザイン：/JP/1_夢幻楽園ティエラ零式　残夢編4.xlsx <br>
+  - ギミックデザイン：/JP/1b_夢幻楽園ティエラ零式　残夢編4　後半.xlsx <br>
 
 *** 
 - **English** <br>
