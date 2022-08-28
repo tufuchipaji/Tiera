@@ -14,7 +14,7 @@
     - ../CN/文案总文件夹 <br>
     - [在线文档](https://docs.qq.com/sheet/DQVhIaXZqbmxmSUJx?tab=BB08J2&_t=1660295728360) <br>
   - 机制图示：../Graphic Presentation.pptx <br>
-  - 简易原型动画（需要Axure）： ../Proto Animation.rp <br>
+  - 简易原型动画（需要用Axure打开）： ../Proto Animation.rp <br>
 
 *** 
 ### <h3 id='2'>あらすじ</h3>
@@ -24,7 +24,7 @@
   - ギミックデザイン：../JP/1b_夢幻楽園ティエラ零式　残夢編4　後半.xlsx <br>
   - デザイン中の考えなど：../JP/2_あとがき.xlsx <br>
   - ギミック図説：../Graphic Presentation.pptx <br>
-  - 簡易プロト動画（Axureが必要）： ../Proto Animation.rp <br>
+  - 簡易プロト動画（Axureで起動してください）： ../Proto Animation.rp <br>
 
 *** 
 ### <h3 id='3'>Introduction</h3>
