@@ -16,7 +16,9 @@
     - ../CN/文案总文件夹
     - [在线文档](https://docs.qq.com/sheet/DQVhIaXZqbmxmSUJx?tab=BB08J2&_t=1660295728360)
   - 机制图示：../Graphic Presentation.pptx
-  - 简易原型动画： ../Proto Animation.rp （需要用Axure打开）
+  - 简易原型动画： 
+    - ../Proto Animation/index.html （可直接用浏览器打开）
+    - ../Proto Animation.rp （需要用Axure打开）
   <br><br>
   - To do：
     - 人偶剧场机制重做
@@ -33,7 +35,9 @@
   - ギミックデザイン：../JP/1b_夢幻楽園ティエラ零式　残夢編4　後半.xlsx 
   - デザイン中の考えなど：../JP/9_あとがき.xlsx 
   - ギミック図説：../Graphic Presentation.pptx 
-  - 簡易プロト動画： ../Proto Animation.rp （Axureで起動してください）
+  - 簡易プロト動画： 
+    - ../Proto Animation/index.html （ブラウザで起動できます）
+    - ../Proto Animation.rp （Axureで起動してください）
   <br><br>
   - To do：
     - 人形劇場ギミックのリニューアル
