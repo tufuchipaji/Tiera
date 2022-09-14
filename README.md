@@ -11,7 +11,7 @@
   - ※不定期更新
   <br><br>
   - 机制设计文档：../CN/1b_零式梦幻乐园缇亚拉 残梦之章4 后半.xlsx
-  - 设计思路等：../CN/2_后记.xlsx
+  - 设计时的一些想法：../CN/9_后记.xlsx
   - 文案相关：（provided by [tufuchipaji](https://github.com/tufuchipaji)）
     - ../CN/文案总文件夹
     - [在线文档](https://docs.qq.com/sheet/DQVhIaXZqbmxmSUJx?tab=BB08J2&_t=1660295728360)
@@ -31,7 +31,7 @@
   - ※不定期更新
   <br><br>
   - ギミックデザイン：../JP/1b_夢幻楽園ティエラ零式　残夢編4　後半.xlsx 
-  - デザイン中の考えなど：../JP/2_あとがき.xlsx 
+  - デザイン中の考えなど：../JP/9_あとがき.xlsx 
   - ギミック図説：../Graphic Presentation.pptx 
   - 簡易プロト動画： ../Proto Animation.rp （Axureで起動してください）
   <br><br>
